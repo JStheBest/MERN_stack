@@ -1,0 +1,6 @@
+
+
+error to mongodb atlas:
+querySrv EREFUSED _mongodb._tcp.cluster0-8r7cq.azure.mongodb.net
+
+using localhost db for now
