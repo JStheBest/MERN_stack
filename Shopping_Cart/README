@@ -7,3 +7,12 @@ using localhost db for now
 
 Figure out how to implement Redux, connect backend to frontend
 Add Auth and Access Control
+
+# Install dependencies for server
+npm install
+
+# Install dependencies for client
+npm run client-install
+
+# Run the client & server with concurrently
+npm run dev
