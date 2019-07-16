@@ -1,6 +1,6 @@
-To solve:
-DB:
-error to mongodb atlas:
+Use: React, Reactstrap, Axios, body-parser, concurrently, config, express, mongoose, redux, redux-thunk (with redux devtool), uuid for testing
+
+error to mongodb atlas(When using wifi gives error):
 querySrv EREFUSED _mongodb._tcp.cluster0-8r7cq.azure.mongodb.net
 
 using localhost db for now
