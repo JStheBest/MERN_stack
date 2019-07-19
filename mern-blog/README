@@ -1,0 +1,16 @@
+Use: React, Reactstrap, Axios, concurrently, config, express, mongoose, redux, redux-thunk (with redux devtool), uuid for testing
+,jsonwebtoken for auth,bcryptjs for password
+error to mongodb atlas(When using wifi gives error):
+querySrv EREFUSED _mongodb._tcp.cluster0-8r7cq.azure.mongodb.net
+
+Figure out how to implement Redux, connect backend to frontend
+Add Auth and Access Control
+
+# Install dependencies for server
+npm install
+
+# Install dependencies for client
+npm run client-install
+
+# Run the client & server with concurrently
+npm run dev
