@@ -1,2 +1,2 @@
 # MERN_stack
-projects use mongodb, express, react and node
+project use mongodb, express, react and node
